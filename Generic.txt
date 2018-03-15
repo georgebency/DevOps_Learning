@@ -1,0 +1,30 @@
+
+For Assignment-Details check Xorent
+https://xornet.xoriant.com/
+  what's New --> Forum --> View Forum
+
+For Requirement-changes
+Reduce the time for deploying changes.
+Delivers application and services in high-velocity.
+That is faster   Build --> Test --> Release
+
+DEV-OP PRACTICE
+Version-control for all.
+Automated Testing : regression-swift created so that whenever a build is released it will be tested against the regression-swift
+CI and CD
+Virtualization / Cloud
+
+Jenkins : Opensource and easy to use, there are various other tools like BuildBot.
+
+Docker : for making images and as the number of images increases we will need kubernetes
+
+VARIOUS ENVIRONMENT
+DEV Environment, TEST Environment, DR (Diaster Recovery) Environment  &  PROD Environment
+
+
+-------
+Mumbai-Team to handle xornet.
+Pune-Team to handle xorchat.
+
+
+
